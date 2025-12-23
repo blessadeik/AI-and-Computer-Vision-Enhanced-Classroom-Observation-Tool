@@ -164,9 +164,3 @@ Morgan State University
 
 ---
 
-If you’d like help adding:
-- a **demo dashboard**
-- a **methods section for a paper**
-- or **EB2/EB1-ready project descriptions**
-
-just say the word.
